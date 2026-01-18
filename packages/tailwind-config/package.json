@@ -1,0 +1,10 @@
+{
+  "name": "@repo/tailwind-config",
+  "version": "1.0.0",
+  "exports": {
+    ".": "./tailwind.config.ts"
+  },
+  "dependencies": {
+    "tailwindcss": "^4.1.18"
+  }
+}
